@@ -3,7 +3,7 @@ val: ../valid/images
 test: ../test/images
 
 nc: 9
-names: ['blue', 'blue_cone', 'large_orange_cone', 'orange', 'orange_cone', 'unknown_cone', 'yellow', 'yellow_cone','black_cone']
+names: ['blue', 'blue_cone', 'orange', 'orange_cone', 'unknown_cone', 'yellow', 'yellow_cone','black','black_cone']
 
 roboflow:
   workspace: conedetection-6g6uc
