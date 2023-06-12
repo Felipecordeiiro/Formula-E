@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cone_dataset</folder>
+	<filename>192.jpg</filename>
+	<path>C:\Users\65441\Desktop\cone_dataset\192.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>359</width>
+		<height>478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trafficcone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>82</ymin>
+			<xmax>168</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

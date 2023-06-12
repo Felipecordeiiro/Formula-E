@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 9
+names: ['blue', 'blue_cone', 'large_orange_cone', 'orange', 'orange_cone', 'unknown_cone', 'yellow', 'yellow_cone','black_cone']
+
+roboflow:
+  workspace: conedetection-6g6uc
+  project: cone-detection-6ltmn
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/conedetection-6g6uc/cone-detection-6ltmn/dataset/4

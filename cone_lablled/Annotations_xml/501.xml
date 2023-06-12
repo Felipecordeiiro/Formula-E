@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>501.jpg</filename>
+	<path>C:\Users\HP\Desktop\new\501.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>353</width>
+		<height>485</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trafficcone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>10</ymin>
+			<xmax>290</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>
